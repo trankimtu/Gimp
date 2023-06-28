@@ -42,3 +42,9 @@
   Image -> Precision -> 32 bit floating point
   Gamma: Linear light for the highest setting 
 ```
+## Using
+### Selection
+```
+  Select none: Ctrl + Shift + a
+```
+
