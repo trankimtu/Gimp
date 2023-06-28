@@ -37,3 +37,8 @@
   Windows -> Single Window mode
   Windows -> Hide Docks
 ```
+### Change Precision
+```
+  Image -> Precision -> 32 bit floating point
+  Gamma: Linear light for the highest setting 
+```
