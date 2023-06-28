@@ -32,3 +32,8 @@ Introduction
     ```
       Edit -> References -> Interface -> Toolbox
     ```
+  Use Single window mode, disable Hide Docks
+    ```
+      Windows -> Single Window mode
+      Windows -> Hide Docks
+    ```
