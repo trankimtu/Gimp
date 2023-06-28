@@ -18,22 +18,22 @@
 
   Search tools: /
 
-  ## Setup
-  ### Default Image
-    ```
-      Edit -> References -> Default Image
-      Precision: low for slow PC
-    ```
-  ### Dark mode:
-    ```
-      Edit -> References -> Interface -> Theme
-    ```
-  ### Modify Toolbox:
-    ```
-      Edit -> References -> Interface -> Toolbox
-    ```
-  ### Use Single window mode, disable Hide Docks
-    ```
-      Windows -> Single Window mode
-      Windows -> Hide Docks
-    ```
+## Setup
+### Default Image
+```
+  Edit -> References -> Default Image
+  Precision: low for slow PC
+```
+### Dark mode:
+```
+  Edit -> References -> Interface -> Theme
+```
+### Modify Toolbox:
+```
+  Edit -> References -> Interface -> Toolbox
+```
+### Use Single window mode, disable Hide Docks
+```
+  Windows -> Single Window mode
+  Windows -> Hide Docks
+```
