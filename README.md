@@ -1,8 +1,8 @@
 # Gimp
 
-Installation:
+## Installation:
   [Download Gimp](https://www.gimp.org/downloads/)
-Introduction
+## Introduction
   Main menu:
   Toolbox: Contains all tools
   Tool options: Contains settings for the tool we have selected
@@ -18,21 +18,21 @@ Introduction
 
   Search tools: /
 
-  Setup
-  Default Image
+  ## Setup
+  ### Default Image
     ```
       Edit -> References -> Default Image
       Precision: low for slow PC
     ```
-  Dark mode:
+  ### Dark mode:
     ```
       Edit -> References -> Interface -> Theme
     ```
-  Modify Toolbox:
+  ### Modify Toolbox:
     ```
       Edit -> References -> Interface -> Toolbox
     ```
-  Use Single window mode, disable Hide Docks
+  ### Use Single window mode, disable Hide Docks
     ```
       Windows -> Single Window mode
       Windows -> Hide Docks
