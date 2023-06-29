@@ -43,6 +43,25 @@
   Gamma: Linear light for the highest setting 
 ```
 ## Using
+### Scroll
+```
+  Up / Down
+  Shift + Scroll = Left / Right
+```
+### Zoom
+```
+  + / -
+  Ctrl + Scroll
+```
+### Pan
+```
+  Spacebar
+  Middle button (Scroll button)
+```
+### Layer display
+```
+  Only show 1 layer: Shift + eye
+```
 ### Selection
 ```
   Select none: Ctrl + Shift + a
