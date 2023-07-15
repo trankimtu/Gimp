@@ -2,6 +2,8 @@
 
 ## Installation:
   [Download Gimp](https://www.gimp.org/downloads/)
+
+  Layer effect 
 ## Introduction
   Main menu:
   Toolbox: Contains all tools
@@ -31,6 +33,11 @@
 ### Modify Toolbox:
 ```
   Edit -> References -> Interface -> Toolbox
+```
+### Windows location
+```
+  Set location tool tab
+  Edit -> References -> Interface -> Window Management -> Save Window Positions Now
 ```
 ### Use Single window mode, disable Hide Docks
 ```
