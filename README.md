@@ -59,13 +59,21 @@
 ```
   Move: Move the active layer
   Color Picker Tool (eye drop icon): Sample average, Radius = 3(default)
+  Healing Tool (band aid icon): Alignment = Aligned
+  Crop Tool: Guide = Rule of thirds
+  Clone tool: Active Sample merged, Alignment = Aligned
+  Edit -> References -> Input Devices -> Save Input Device Setting Now
 ```
+
+
+<!-- ============================================== -->
+
+## Using
 ### Change image Precision
 ```
   Image -> Precision -> 32 bit floating point
   Gamma: Linear light for the highest setting 
 ```
-## Using
 ### Scroll
 ```
   Up / Down
