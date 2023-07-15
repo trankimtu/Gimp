@@ -12,11 +12,11 @@
   Layer, Channels, Paths, Undo: Display items mentioned in its name<br>
   Brush, Patterns, Fonts, Document History<br>
 
-  Toolbox:
-    Selection tools: Allow select the area of the image using various methods. Then make changes in isolated items that are in the specified selection area.
-    Paint tools: Free draw or paint
-    Transform tools: Transform an active layer, selection area, or path
-    Other tools
+  Toolbox:<br>
+    Selection tools: Allow select the area of the image using various methods. Then make changes in isolated items that are in the specified selection area.<br>
+    Paint tools: Free draw or paint<br>
+    Transform tools: Transform an active layer, selection area, or path<br>
+    Other tools<br>
 
   Search tools: /
 
