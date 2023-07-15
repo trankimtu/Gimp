@@ -20,8 +20,14 @@
 
   Search tools: /
 
-## Setup
+## Setup Interface
+### Use Single window mode, uncheck Hide Docks
+```
+  Windows -> Single Window mode
+  Windows -> Hide Docks
+```
 ### Default Image
+- Set Default image size, resolution, 
 ```
   Edit -> References -> Default Image
   Precision: low for slow PC
@@ -34,17 +40,27 @@
 ```
   Edit -> References -> Interface -> Toolbox
 ```
-### Windows location
+### Tab
+```
+  Relocation tab: move it to the edge to make another column
+  Select tab, click to top right corner
+  - Tab Style
+  - Lock tab to Dock
+```
+### Save Windows location
 ```
   Set location tool tab
   Edit -> References -> Interface -> Window Management -> Save Window Positions Now
+  Top right: Tool Options, Device Status, Brushes, Patterns, Fonts
+  Bottom right: Layers, Channels, Paths, Document History, Undo History, Images
+  
 ```
-### Use Single window mode, disable Hide Docks
+### Save Default Option
 ```
-  Windows -> Single Window mode
-  Windows -> Hide Docks
+  Move: Move the active layer
+  Color Picker Tool (eye drop icon): Sample average, Radius = 3(default)
 ```
-### Change Precision
+### Change image Precision
 ```
   Image -> Precision -> 32 bit floating point
   Gamma: Linear light for the highest setting 
@@ -72,5 +88,10 @@
 ### Selection
 ```
   Select none: Ctrl + Shift + a
+```
+### Move
+```
+  Shortcut: m
+  Option: Move the active layer
 ```
 
