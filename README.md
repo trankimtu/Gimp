@@ -5,12 +5,12 @@
 
   Layer effect 
 ## Introduction
-  Main menu:
-  Toolbox: Contains all tools
-  Tool options: Contains settings for the tool we have selected
-  Canvas: Display image or composition
-  Layer, Channels, Paths, Undo: Display items mentioned in its name
-  Brush, Patterns, Fonts, Document History
+  Main menu:<br>
+  Toolbox: Contains all tools<br>
+  Tool options: Contains settings for the tool we have selected<br>
+  Canvas: Display image or composition<br>
+  Layer, Channels, Paths, Undo: Display items mentioned in its name<br>
+  Brush, Patterns, Fonts, Document History<br>
 
   Toolbox:
     Selection tools: Allow select the area of the image using various methods. Then make changes in isolated items that are in the specified selection area.
