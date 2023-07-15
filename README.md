@@ -91,6 +91,7 @@
   Edit -> References -> Interface -> Toolbox
   May want to uncheck"Show GIMP logo (drag-and-drop target)"
   Check "Show active brush, pattern & gradient
+  May want to add "Levels" and "Curves" tools to toolbox
 ```
 <!-- ============================================== -->
 
