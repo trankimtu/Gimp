@@ -12,11 +12,9 @@ Go to
 
 Set:
 ```
-X resolution: 96 pixels/in
-
-Y resolution: 96 pixels/in
-
-Click OK
+  X resolution: 96 pixels/in
+  Y resolution: 96 pixels/in
+  Click OK
 ```
 
 This does not change pixel size — only the metadata.
